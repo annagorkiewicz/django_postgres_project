@@ -1,3 +1,10 @@
 .idea
 venv
 **/*.pyc
+
+envs/.env_db
+envs/.env
+
+./backend_core/db.sqlite3
+db.sqlite3
+
